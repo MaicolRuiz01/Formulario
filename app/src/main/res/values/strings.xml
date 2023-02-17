@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="inpName">Name</string>
+    <string name="inpPhone">Phone</string>
+    <string name="inpEmail">Email</string>
+    <string name="inpCD">Contact Description</string>
+    <string name="inpDate">Birthdat</string>
+    <string name="title">CONFIRM DATA</string>
+    <string name="putName">put_name</string>
+    <string name="putFech">put_fech</string>
+    <string name="putPhone">put_phone</string>
+    <string name="putEmail">put_email</string>
+    <string name="putDescription">put_description</string>
+</resources>
